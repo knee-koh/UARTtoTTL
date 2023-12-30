@@ -1,6 +1,8 @@
 # UARTtoTTL
 PCB to convert UART signals to TTL with level shifting in order to communicate with Dynamixel motors.
 
+<img src="Media/Images/V1 PCB.JPG" width=45% />
+
 <p float="left" align="center">
 	<img src="Media/Images/V1 PCB.JPG" width=45% />
 	<img src="Media/Images/V1 Components.JPG" width=45% />
