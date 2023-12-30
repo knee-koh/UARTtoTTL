@@ -16,7 +16,7 @@ Usage:
 
 V1 BOM:
 - (12X) [2.54mm spacing header pins](https://www.amazon.com/MCIGICM-Header-2-45mm-Arduino-Connector/dp/B07PKKY8BX/ref=sr_1_5?crid=2B0UKD4FHHPAV&keywords=header+pins&qid=1703965345&sprefix=header+pi%2Caps%2C143&sr=8-5) - Use two 6-pin rows for the Level Shifter and the remaining 7-pins for the input pins, if desired.
-- (1X) [Level Shifter]([https://www.youtube.com/watch?v=nJkThBeOZog](https://www.amazon.com/HiLetgo-Channels-Converter-Bi-Directional-3-3V-5V/dp/B07F7W91LC/ref=sr_1_3?crid=1CKV8TD02WIBV&keywords=level+shifter&qid=1703964565&sprefix=level+shift%2Caps%2C144&sr=8-3)https://www.amazon.com/HiLetgo-Channels-Converter-Bi-Directional-3-3V-5V/dp/B07F7W91LC/ref=sr_1_3?crid=1CKV8TD02WIBV&keywords=level+shifter&qid=1703964565&sprefix=level+shift%2Caps%2C144&sr=8-3)
+- (1X) [Level Shifter](https://www.amazon.com/HiLetgo-Channels-Converter-Bi-Directional-3-3V-5V/dp/B07F7W91LC/ref=sr_1_3?crid=2UK39K6IAPTMH&keywords=level+shifter&qid=1703966291&sprefix=level+shift%2Caps%2C174&sr=8-3)
 - (1X) [Hex Inverter (SN74HC14N)](https://www.amazon.com/Bridgold-SN74HC14N-Schmitt-Trigger-Inverters-DIP-14/dp/B0983ZXJFZ/ref=sr_1_3?crid=1BJWQIMZNLUQZ&keywords=SN74HC14N&qid=1703964695&s=industrial&sprefix=sn74hc14n%2Cindustrial%2C157&sr=1-3)
 - (1X) [Buffer (SN74HC125N)](https://www.amazon.com/Pieces-SN74HC125N-Logic-Gates-DIP-14/dp/B0C746GFZQ/ref=sr_1_2?crid=2A1WBHEH1MIIR&keywords=SN74HC125N&qid=1703964843&sprefix=sn74hc125n%2Caps%2C149&sr=8-2)
 - (1X) [Molex 0532530370](https://www.digikey.com/en/products/detail/molex/0532530370/965997)
