@@ -1,5 +1,5 @@
 # UARTtoTTL Adapter Board
-PCB to convert UART signals to TTL with level shifting in order to communicate with Dynamixel motors.
+PCB to convert UART signals to TTL with level shifting in order to communicate with Dynamixel motors. Confirmed to work with [MarIOnette](https://github.com/knee-koh/MarIOnette) as of version 1.0.4.
 
 <p float="left" align="center">
 	<img src="Media/Gifs/DynamixelClose1.gif" width=90% />
